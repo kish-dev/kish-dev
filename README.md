@@ -11,14 +11,14 @@ I'm a Software Engeneering student at [**Peter the Great St. Petersburg Polytech
 
 ## 🔭
 I'm currently working on two android projects: 
-* InReal - app, that let restaurants show their dishes in augmented reality to delight visitor
-* StudServices - app, that create a platform to exchange offer and requested services between students.
+* [**InReal**](https://github.com/inRealAR) - app, that let restaurants show their dishes in augmented reality to delight visitor
+* [**StudServices**](https://github.com/StudServices/StudServices-Android) - app, that create a platform to exchange offer and requested services between students.
 
 Both of them I code with team. And we use MVVM architecture, cos I like it more than others.
 
 
 ## 👷‍♂️
-Recently, I developed app Investment, that fetch stocks from [**Server**](https://finnhub.io/) and user can add stock to favorite.
+Recently, I developed app [**Investment**](https://github.com/kish-dev/investment-app-kotlin), that fetch stocks from [**Server**](https://finnhub.io/) and user can add stock to favorite.
 
 <!--
 **kish-dev/kish-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
