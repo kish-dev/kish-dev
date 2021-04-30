@@ -33,6 +33,13 @@ Some of my other skills that might come in handy include:
 * I know how to organize team work
 * I know how to create use cases, BPMN, UML and other schema that helps business and programmers
 
+## ⚡
+My ![GitHub](https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717) stats:  
+
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=kish-dev&hide_title=true&hide_border=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)  
+![GitHubLangStats](https://github-readme-stats.vercel.app/api/top-langs/?username=kish-dev&layout=compact&langs_count=10)
+
+
 <!--
 **kish-dev/kish-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
