@@ -20,6 +20,19 @@ Both of them I code with team. And we use MVVM architecture, cos I like it more 
 ## 👷‍♂️
 Recently, I developed app [**Investment**](https://github.com/kish-dev/investment-app-kotlin), that fetch stocks from [**Server**](https://finnhub.io/) and user can add stock to favorite.
 
+##🛠️
+I have these skills:
+* ![Java](https://img.shields.io/badge/-Java-white?logo=java&logoColor=007396) (*pet-projects*, *Technopolis*)
+* ![Kotlin](https://img.shields.io/badge/-Kotlin-white?logo=kotlin&logoColor=007396) (*pet-projects*, *Technopolis*)
+* ![C++](https://img.shields.io/badge/-С++-white?logo=c%2B%2B&logoColor=007396) (*pet-projects*, *university classes*)
+* ![Git](https://img.shields.io/badge/-С++-white?logo=c%2B%2B&logoColor=007396) (*university classes*)
+
+##🌱
+Some of my other skills that might come in handy include:  
+* I have succesful experience working on team projects both as a leader and under management
+* I know how to organize team work
+* I know how to create use cases, BPMN, UML and other schema that helps business and programmers
+
 <!--
 **kish-dev/kish-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
