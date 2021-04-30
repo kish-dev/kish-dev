@@ -2,7 +2,7 @@
 
 My name is _Gulyaev Anton_, kish-dev just my nickname. 
 I'm inspired in Android Development
-and I apire to become one of the best devs in this sphere.
+and I aspire to become one of the best devs in this sphere.
 
 
 ## 👨‍💻
