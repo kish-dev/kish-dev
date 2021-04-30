@@ -26,6 +26,7 @@ I have these skills:
 * ![Kotlin](https://img.shields.io/badge/-Kotlin-white?logo=kotlin&logoColor=007396) (*pet-projects*, *Technopolis*)
 * ![C++](https://img.shields.io/badge/-С++-white?logo=c%2B%2B&logoColor=007396) (*pet-projects*, *university classes*)
 * ![Git](https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032) (*university classes*)
+* ![SQL](https://img.shields.io/badge/-SQL-white?logo=postgresql&logoColor=336791) (*Technopolis*)
 
 ## 🌱
 Some of my other skills that might come in handy include:  
