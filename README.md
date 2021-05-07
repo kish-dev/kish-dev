@@ -11,7 +11,7 @@ I'm a Software Engeneering student at [**Peter the Great St. Petersburg Polytech
 
 ## 🔭
 I'm currently working on two android projects: 
-* [**InReal**]https://github.com/inRealAR/inReal) - app, that let restaurants show their dishes in augmented reality to delight visitor
+* [**InReal**](https://github.com/inRealAR/inReal) - app, that let restaurants show their dishes in augmented reality to delight visitor
 * [**StudServices**](https://github.com/StudServices/StudServices-Android) - app, that create a platform to exchange offer and requested services between students.
 
 Both of them I code with team. And we use MVVM architecture, cos I like it more than others.
