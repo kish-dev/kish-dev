@@ -18,7 +18,7 @@ Both of them I code with team. And we use MVVM architecture, cos I like it more 
 
 
 ## 👷‍♂️
-Recently, I developed app [**Investment**](https://github.com/kish-dev/investment-app-kotlin), that fetch stocks from [**Server**](https://finnhub.io/) and user can add stock to favorite.
+Recently, I developed app [**Investment**](https://github.com/kish-dev/investment-app-kotlin), that fetches stocks from [**Server**](https://finnhub.io/) and user can add stock to favorite.
 
 ## 🛠️
 I have these skills:
@@ -33,7 +33,7 @@ I have these skills:
 Some of my other skills that might come in handy include:  
 * I have succesful experience working on team projects both as a leader and under management
 * I know how to organize team work
-* I know how to create use cases, BPMN, UML and other schemes that helps business and programmers
+* I know how to create use cases, BPMN, UML and other schemes that help business and programmers
 
 ## ⚡
 My ![GitHub](https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717) stats:  
