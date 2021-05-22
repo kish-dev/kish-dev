@@ -33,7 +33,7 @@ I have these skills:
 Some of my other skills that might come in handy include:  
 * I have succesful experience working on team projects both as a leader and under management
 * I know how to organize team work
-* I know how to create use cases, BPMN, UML and other schema that helps business and programmers
+* I know how to create use cases, BPMN, UML and other schemes that helps business and programmers
 
 ## ⚡
 My ![GitHub](https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717) stats:  
