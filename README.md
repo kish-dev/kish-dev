@@ -5,4 +5,4 @@ I'm inspired in Android Development
 and I aspire to become one of the best devs in this sphere.
 
 
-I working as an Android-developer in Yandex Market.
+I working as an Senior Android Developer in MTS Digital.
